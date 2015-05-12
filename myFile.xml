@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <registrant>
+    <name>Saratov State Law Academy.</name>
+    <organization>SSLA-NET</organization>
+    <country>RUSSIAN FEDERATION</country>
+    <rawText>netname:        SSLA-NET
+descr:          Saratov State Law Academy.
+country:        RU
+</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>YURIY NAYANOV</name>
+    <street1>PRC NIT, Saratov State University</street1>
+    <city>Astrakhanskaya st., 83 building 9</city>
+    <postalCode>Saratov, Russia</postalCode>
+    <telephone>78452511529</telephone>
+    <fax>78452511439</fax>
+    <rawText>person:         YURIY NAYANOV
+address:        PRC NIT, Saratov State University
+address:        Astrakhanskaya st., 83 building 9
+address:        Saratov, Russia
+phone:          +7-845-2511529
+fax-no:         +7-845-2511439
+nic-hdl:        YVN2-RIPE
+mnt-by:         PRCNIT-MNT
+created:        2003-04-28T12:57:43Z
+last-modified:  2003-04-28T13:36:32Z
+source:         RIPE # Filtered</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>Maxim Aleksenko</name>
+    <street1>PRC NIT, Saratov State University</street1>
+    <city>Astrakhanskaya st., 83 building 9</city>
+    <postalCode>Saratov, Russia</postalCode>
+    <country>Chernyshevskogo st,. 104</country>
+    <telephone>7 845 2252553</telephone>
+    <fax>78452240446</fax>
+    <rawText>person:         Anna Anikina
+address:        PRC NIT, Saratov State University
+address:        Astrakhanskaya st., 83 building 9
+address:        Saratov, Russia
+phone:          +7-845-2517172
+fax-no:         +7-845-2240446
+nic-hdl:        AMA79-RIPE
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T06:39:39Z
+source:         RIPE # Filtered
+person:         Maxim Aleksenko
+address:        Chernyshevskogo st,. 104
+address:        Saratov, Russia, 410720
+phone:          +7 845 2252553
+nic-hdl:        MEA7-RIPE
+mnt-by:         PRCNIT-MNT
+created:        2003-04-29T09:04:08Z
+last-modified:  2003-04-29T09:04:08Z
+source:         RIPE # Filtered</rawText>
+  </technicalContact>
+  <domainName>212.193.61.29</domainName>
+  <status>ASSIGNED PA</status>
+  <rawText>% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '212.193.60.0 - 212.193.61.255'
+
+% Abuse contact for '212.193.60.0 - 212.193.61.255' is 'ip-box@ripn.net'
+
+inetnum:        212.193.60.0 - 212.193.61.255
+netname:        SSLA-NET
+descr:          Saratov State Law Academy.
+country:        RU
+admin-c:        YVN2-RIPE
+tech-c:         AMA79-RIPE
+tech-c:         MEA7-RIPE
+status:         ASSIGNED PA
+mnt-by:         ROSNIIROS-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2003-04-29T11:15:44Z
+source:         RIPE # Filtered
+
+person:         Anna Anikina
+address:        PRC NIT, Saratov State University
+address:        Astrakhanskaya st., 83 building 9
+address:        Saratov, Russia
+phone:          +7-845-2517172
+fax-no:         +7-845-2240446
+nic-hdl:        AMA79-RIPE
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T06:39:39Z
+source:         RIPE # Filtered
+
+person:         Maxim Aleksenko
+address:        Chernyshevskogo st,. 104
+address:        Saratov, Russia, 410720
+phone:          +7 845 2252553
+nic-hdl:        MEA7-RIPE
+mnt-by:         PRCNIT-MNT
+created:        2003-04-29T09:04:08Z
+last-modified:  2003-04-29T09:04:08Z
+source:         RIPE # Filtered
+
+person:         YURIY NAYANOV
+address:        PRC NIT, Saratov State University
+address:        Astrakhanskaya st., 83 building 9
+address:        Saratov, Russia
+phone:          +7-845-2511529
+fax-no:         +7-845-2511439
+nic-hdl:        YVN2-RIPE
+mnt-by:         PRCNIT-MNT
+created:        2003-04-28T12:57:43Z
+last-modified:  2003-04-28T13:36:32Z
+source:         RIPE # Filtered
+
+% Information related to '212.193.56.0/21AS9111'
+
+route:          212.193.56.0/21
+descr:          Saratov Education Network
+descr:          Saratov, Russia
+origin:         AS9111
+mnt-by:         PRCNIT-MNT
+created:        2008-03-11T21:30:15Z
+last-modified:  2008-03-11T21:30:15Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.79.2 (DB-3)</rawText>
+  <parseCode>3344</parseCode>
+  <header>% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf</header>
+  <strippedText>
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '212.193.60.0 - 212.193.61.255'
+
+% Abuse contact for '212.193.60.0 - 212.193.61.255' is 'ip-box@ripn.net'
+
+inetnum:        212.193.60.0 - 212.193.61.255
+netname:        SSLA-NET
+descr:          Saratov State Law Academy.
+country:        RU
+admin-c:        YVN2-RIPE
+tech-c:         AMA79-RIPE
+tech-c:         MEA7-RIPE
+status:         ASSIGNED PA
+mnt-by:         ROSNIIROS-MNT
+created:        1970-01-01T00:00:00Z
+last-modified:  2003-04-29T11:15:44Z
+source:         RIPE # Filtered
+
+person:         Anna Anikina
+address:        PRC NIT, Saratov State University
+address:        Astrakhanskaya st., 83 building 9
+address:        Saratov, Russia
+phone:          +7-845-2517172
+fax-no:         +7-845-2240446
+nic-hdl:        AMA79-RIPE
+created:        1970-01-01T00:00:00Z
+last-modified:  2001-09-22T06:39:39Z
+source:         RIPE # Filtered
+
+person:         Maxim Aleksenko
+address:        Chernyshevskogo st,. 104
+address:        Saratov, Russia, 410720
+phone:          +7 845 2252553
+nic-hdl:        MEA7-RIPE
+mnt-by:         PRCNIT-MNT
+created:        2003-04-29T09:04:08Z
+last-modified:  2003-04-29T09:04:08Z
+source:         RIPE # Filtered
+
+person:         YURIY NAYANOV
+address:        PRC NIT, Saratov State University
+address:        Astrakhanskaya st., 83 building 9
+address:        Saratov, Russia
+phone:          +7-845-2511529
+fax-no:         +7-845-2511439
+nic-hdl:        YVN2-RIPE
+mnt-by:         PRCNIT-MNT
+created:        2003-04-28T12:57:43Z
+last-modified:  2003-04-28T13:36:32Z
+source:         RIPE # Filtered
+
+% Information related to '212.193.56.0/21AS9111'
+
+route:          212.193.56.0/21
+descr:          Saratov Education Network
+descr:          Saratov, Russia
+origin:         AS9111
+mnt-by:         PRCNIT-MNT
+created:        2008-03-11T21:30:15Z
+last-modified:  2008-03-11T21:30:15Z
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.79.2 (DB-3)</strippedText>
+  <audit>
+    <createdDate class="sql-timestamp">2015-05-10 15:32:53.000 UTC</createdDate>
+    <updatedDate class="sql-timestamp">2015-05-10 15:32:53.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <updatedDate>1997-10</updatedDate>
+    <domainName>212.193.61.29</domainName>
+    <status>ALLOCATED</status>
+    <rawText>% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      212.0.0.0 - 212.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      1997-10
+source:       IANA</rawText>
+    <parseCode>112</parseCode>
+    <header>% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+refer:        whois.ripe.net
+inetnum:      212.0.0.0 - 212.255.255.255
+organisation: RIPE NCC
+</header>
+    <strippedText>status:       ALLOCATED
+whois:        whois.ripe.net
+changed:      1997-10
+status:       ALLOCATED
+whois:        whois.ripe.net
+changed:      1997-10
+source:       IANA
+</strippedText>
+    <audit>
+      <createdDate class="sql-timestamp">2015-05-10 15:32:52.000 UTC</createdDate>
+      <updatedDate class="sql-timestamp">2015-05-10 15:32:52.000 UTC</updatedDate>
+    </audit>
+    <whoisServer>whois.ripe.net</whoisServer>
+  </registryData>
+  <contactEmail>ip-box@ripn.net</contactEmail>
+</WhoisRecord>
